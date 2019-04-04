@@ -24,7 +24,7 @@ Tasks:
 0. Read about Spring, Swagger, Spring-Boot, Spring-Data-Rest
 1. Update Swagger documentation API description with your own data (name, email, what kind of API is that etc.)
 2. Create entity representing any kind of resource (other than person)
-3. Create paging and sorting repository for that resource (user H2 in memory database, add appropriate dependency)
+3. Create paging and sorting repository for that resource (use H2 in memory database, add appropriate dependency)
 4. Create custom method with custom documentation in your repository
 5. Explore your api on Swagger UI
 6. Create simple HTML web page (any technology: React, Angular,....., jQuery) that use at least one method from your project and presents results
