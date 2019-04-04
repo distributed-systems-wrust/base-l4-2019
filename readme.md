@@ -1,13 +1,13 @@
 # 2019 - Task List 4
 
-Usefull for task list
+Useful for task list
  - [Swagger tutorial](https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api)
  - [Springfox Swagger Docs](https://springfox.github.io/springfox/docs/current/)
  - [Spring Boot Getting started](https://spring.io/guides/gs/spring-boot/)
  - [Spring Data Rest](https://spring.io/guides/gs/accessing-data-rest/)
  - [Springfox Swagger with Spring Data Rest](https://reflectoring.io/documenting-spring-data-rest-api-with-springfox/)
  
-  Just usefull
+Just useful
  - [Spring project generator](https://start.spring.io/)
 
 ```bash
